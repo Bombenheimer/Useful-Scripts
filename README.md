@@ -1,2 +1,2 @@
 # Useful-Scripts
-Useful automation shell scripts for many uses!
+Useful automation scripts and programs that can be used for menial tasks, cronjob scheduling and more!
